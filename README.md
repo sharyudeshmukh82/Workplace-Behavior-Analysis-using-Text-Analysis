@@ -7,7 +7,8 @@ People spend 8-10 hours a day at their workplace and it is important for every o
 
 1:"Activities",2:"Personal Information",3:"Compliment",4:"Relationship",
 5:"Reframing",6:"Communicative Desensitization",7:"Isolation",0:"Approach"
-![Dataset][Dataset.png]
+
+![Dataset](Dataset.png)
 
 
 
